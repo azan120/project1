@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: garamond;
+    font-weight: lighter;
+}
+.container{
+    width: 100%;
+   height: 100%; 
+}
+.box1{
+    background-color:white;
+    height: 200px;
+}
+ .box2{
+    background-image: url(bg\ \(1\).jpg);
+    background-size:cover;
+   height: 300px;
+ width: 1490px;
+ display:flex;
+}
+#one1{
+    color:rgba(179, 238, 203, 0.634);
+}
+#one2{
+    color:rgba(179, 238, 203, 0.634);
+}
+#one3{
+    color:rgba(179, 238, 203, 0.634);
+}
+.box3{
+    background-color:white;
+    height: 270px;
+}
+.box4{
+    background-image: url(bg\ \(1\).jpg);
+    background-size:cover ;
+   height: 520px;
+ width: 1490px;
+ color: white;
+} 
+#h{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.par{
+    width: 300px;
+    height: 97px;
+    margin-left:80px ;
+    margin-top: 10px; 
+}
+.button{
+    margin-left: 80px;
+    border-radius: 20px;
+    background-color:#00b4d8;
+    border: none;
+    height:40px;
+     display: inline-block; 
+    width: 140px;
+    color: white;
+}
+.b2{
+    background-color:#00b4d8;
+    color: white;
+    border-radius: 20px;
+    border:none;
+    height:40px;
+    width: 160px;
+    margin-top: 20px;
+}
+.pic{
+width:200px;
+background-size: cover;
+justify-content: center;
+margin-left:900px;
+position: relative;
+bottom: 250px;
+}
+img{
+    width: 150px;
+    justify-content: center;
+    align-items: end; 
+}
+.percent1{
+    
+    padding-top: 70px;
+    position: relative;
+    left:220px;
+    text-align: center;
+    color: white;
+}
+.percent2{
+    padding-top: 70px;
+    position: relative;
+    left:400px;
+    text-align: center;
+    color: white;
+}
+.percent3{
+    padding-top: 70px;
+    position: relative;
+    left:500px;
+    text-align: center;
+    color: white;
+}
+.mission{
+    text-align: center;
+    padding-top: 70px;
+    font-weight:lighter;
+}
+.last{
+   text-align:center ;
+   position: relative;
+   top:140px;
+   margin-top: 5px;
+}
+.div2 {
+     width: 360px;
+    height: 200px;  
+    padding: 50px;
+    border: 2px dashed white;
+     position: relative;
+top: 175px;
+margin-left: 750px; 
+display: inline-block; 
+}
+.div1 {
+    width: 360px;
+    height: 200px;  
+    padding: 50px;
+    border: 2px dashed white;
+     position: relative;
+top: -24.5px;
+margin-left: 350px;
+display: inline-block; 
+text-align:center ;
+}
+.text1{
+padding-top: 24px;
+}
+ .text2{
+    padding-top: 24.7px;
+}  
+footer{
+    text-align: center;
+
+}
+a{
+    color: white;
+}
